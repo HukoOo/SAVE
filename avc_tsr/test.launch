@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="avc_tsr" type="avc_tsr" name="msg_publisher"/>
+</launch>
